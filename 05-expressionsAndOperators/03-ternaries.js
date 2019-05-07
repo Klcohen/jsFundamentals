@@ -48,5 +48,6 @@ switch (true){
 default:
     console.log('didnt work')
 
+}
     let yep = -8;
-(yep < 0 && > -10) ? console.log('worked') : (yep > 0) ? console.log('didnt work') : console.log('nope');
+(yep < 0 && yep > -10) ? console.log('worked') : (yep > 0) ? console.log('didnt work') : console.log("Autumn is cool")
